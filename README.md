@@ -1,6 +1,6 @@
 # NTD Analysis
 
-This folder keeps the non-AI research workflow for not-to-do instruction analysis.
+This folder keeps the research workflow for not-to-do instruction analysis.
 
 ## Layout
 
@@ -15,5 +15,3 @@ This folder keeps the non-AI research workflow for not-to-do instruction analysi
 - `./env/bin/python scripts/stats/compute_ntd_statistics.py`
 - `./env/bin/python scripts/plots/plot_ntd_distribution.py`
 - `./env/bin/python scripts/plots/plot_ntd_boxplot.py`
-
-AI, LLM, neural fine-tuning, and provider API scripts have been removed from this workspace.

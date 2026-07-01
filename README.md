@@ -7,7 +7,9 @@ This folder keeps the research workflow for not-to-do instruction analysis.
 - `scripts/data_prep/` contains random sampling and sentence splitting scripts.
 - `scripts/stats/` contains statistics scripts for inspected data.
 - `scripts/plots/` contains plotting scripts for manual inspection outputs.
-- `manual_inspect_dataset/`, `split_dataset/`, `raw_datasets/`, and `collected_datasets/` contain data artifacts.
+- `manual_inspect_dataset/`, `split_dataset/`, `raw_datasets/`, and `collected_datasets/` 
+contain data artifacts.
+- `data_analysis` contains the statistics and manual inspection processes of each RQ
 
 ## Current Scripts
 
